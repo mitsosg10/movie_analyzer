@@ -1,6 +1,6 @@
 # movie_analyzer
 A script to analyze movie data
-# Movie Abalyzer
+# Movie Analyzer
 
     Movie Abalyzer is a tool for analyzing movie data.
 
@@ -9,7 +9,7 @@ A script to analyze movie data
     Use the package manager [pip](https://pip.pypa.io/en/stable/) to install movie_abalyzer.
 
     ```bash
-    pip install movie_abalyzer
+    pip install movie_analyzer
     ```
 
     ## Usage
